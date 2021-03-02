@@ -5,7 +5,6 @@ These are data analysis projects that I've worked on using Python, utilizing vis
 
 **Projects**
 
-911 Calls -Capstone Project -- An exploratory analysis of the dataset including descriptions of findings using the Montegomery County 911 Calls dataset available on Kaggle. 
 
 AB Testing Retention Rate for Mobile Games Company -- Used the dataset from an A/B test for a mobile game to determine whether changing a game element to a different level improved user retention. 
 
